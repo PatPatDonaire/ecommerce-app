@@ -13,7 +13,7 @@ const Contact = () => {
     <Container class1="contact-wrapper py-5 home-wrapper-2">
         <div className="row">
           <div className="col-12">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5372.523927160631!2d125.17442081631656!3d6.111589893366845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32f79fa093e1f16d%3A0x20387b3a230e50d1!2sPlaza%20Heneral%20Santos!5e0!3m2!1sen!2sph!4v1689580838254!5m2!1sen!2sph" width="600" height="450" className='border-0 w-100' allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+          <iframe title='frame' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5372.523927160631!2d125.17442081631656!3d6.111589893366845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32f79fa093e1f16d%3A0x20387b3a230e50d1!2sPlaza%20Heneral%20Santos!5e0!3m2!1sen!2sph!4v1689580838254!5m2!1sen!2sph" width="600" height="450" className='border-0 w-100' allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
           </div>
           <div className="col-12 mt-5">
           <div className="contact-inner-wrapper d-flex justify-content-between">

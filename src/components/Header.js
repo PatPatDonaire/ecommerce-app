@@ -78,7 +78,7 @@ const Header = () => {
                 <div>
                   <div className="dropdown">
                     <button className="btn btn-secondary dropdown-toggle bg-transparent border-0 d-flex gap-15 align-items-center" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-                      <img src={menu}/><span className='me-5 d-inline-block'>Shop Categories</span>
+                      <img src={menu} alt='menu'/><span className='me-5 d-inline-block'>Shop Categories</span>
                     </button>
                     <ul className="dropdown-menu" aria-labelledby="dropdownMenuButton1">
                       <li><Link className="dropdown-item text-white" to="#">Action</Link></li>
